@@ -3,7 +3,7 @@ Jquery Based script that converts large bodies of text into paragraphs
 
 Intially wrote this in JSFiddle : https://jsfiddle.net/Plaganomics/5rwf0814/
 
-### Example Text
+### Example Text Body
 
 Sometimes good paragraphing is as simple as letting the start of one paragraph serve as the conclusion to the last, leaving readers hanging for half a beat. 
 Raffi Khatchadourian does this in his essay “The Taste Makers,” writing about the flavor industry.  Khatchadourian tells readers about the confidentiality 
